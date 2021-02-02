@@ -1,0 +1,23 @@
+{
+    "server_ip": "5.196.39.224",
+    "server_port": 28085,
+    "custom_thumb": "https://test.com/images/test.png",
+    "token" : "ODA2MjQxNzQ4NTM1ODY5NDky.YBmlJA.d2Ws99F19szrdtQPsAjLvgJlVVk",
+    "command_prefix" : "!",
+    "refresh_time" : 600,
+    "mm_notify_role": "@everyone",
+    "mm_status_reset_minutes" : 30,
+    "map_banner" : 
+    {
+        "de_aztec" : "https://url.com/aztec.png",
+        "fy_pool_day" : "https://url.com/fy_pool_day.png"
+    },
+    "server_commands":
+    {
+        "!soundlist" : "Lists all playable custom sounds",
+        "!admin" : "SourceMod admin menu",
+        "!quake" : "QuakeSounds settings",
+        "!rank" : "Shows your rank on the server",
+        "!votemap" : "Start a map vote"
+    }
+}
